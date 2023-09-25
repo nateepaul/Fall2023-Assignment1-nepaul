@@ -1,3 +1,57 @@
 ﻿body {
-    background-color: #edf5bc;
+    background: #fbc172;
+}
+
+#trailer {
+    width: 100vw;
+    height: calc(100vw/1.77);
+    padding-top: 50px;
+}
+
+.mb-0 {
+    padding-top: 10px;
+    color: #3c4981;
+}
+
+.p-3 {
+    background-color: snow;
+    color: #3c4981;
+}
+
+.name {
+    color: #3c4981;
+}
+
+.work {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.about span {
+    font-size: 13px;
+}
+
+.v-profile {
+    color: blue;
+    cursor: pointer;
+}
+
+.box {
+    -webkit-box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
+    -moz-box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
+    box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
+}
+
+.col-md-3 {
+    margin-top: 10px;
+}
+
+#Cover-Art {
+    width: 100%;
+    border-radius: 0 0 70px 0;
+    padding-top: 30px;
+}
+
+.nav-item {
+    color: #fbc172;
 }
